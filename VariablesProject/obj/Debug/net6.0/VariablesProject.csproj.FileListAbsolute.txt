@@ -1,0 +1,15 @@
+C:\Beetroot_C#\VariablesProject\VariablesProject\bin\Debug\net6.0\VariablesProject.exe
+C:\Beetroot_C#\VariablesProject\VariablesProject\bin\Debug\net6.0\VariablesProject.deps.json
+C:\Beetroot_C#\VariablesProject\VariablesProject\bin\Debug\net6.0\VariablesProject.runtimeconfig.json
+C:\Beetroot_C#\VariablesProject\VariablesProject\bin\Debug\net6.0\VariablesProject.dll
+C:\Beetroot_C#\VariablesProject\VariablesProject\bin\Debug\net6.0\VariablesProject.pdb
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.csproj.AssemblyReference.cache
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.AssemblyInfoInputs.cache
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.AssemblyInfo.cs
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.csproj.CoreCompileInputs.cache
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.dll
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\refint\VariablesProject.dll
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.pdb
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\VariablesProject.genruntimeconfig.cache
+C:\Beetroot_C#\VariablesProject\VariablesProject\obj\Debug\net6.0\ref\VariablesProject.dll

@@ -51,7 +51,7 @@ TimeSpan dateLeft = finishYear - DateTime.Now;
 Console.WriteLine($"{datePassed.Days} days left to New Year");
 Console.WriteLine($"{dateLeft.Days} days passed from New Year");
 
-
+//checked
 
 
 
